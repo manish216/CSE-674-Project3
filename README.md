@@ -7,7 +7,7 @@ May 05, 2019 ,manishre@buffalo.edu
 For detailed explaination, please visit the below link:
 [link for report pdf](https://github.com/manish216/CSE-672-Project3/blob/master/proj3report.pdf)
 
-The content of this blog is summarized in this
+The content of this project is summarized in this
 [Blog Link](https://machinelearningfromub.home.blog/)
 
 
